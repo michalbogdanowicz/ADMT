@@ -3,3 +3,6 @@ dependencies:
   - numpy
   - pandas
   - jupyter
+  - psycopg2
+  - matplotlib
+  - seaborn
